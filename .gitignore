@@ -1,0 +1,6 @@
+*.sqlite3
+media/
+.idea
+venv
+__pycache__
+maps_dst/
